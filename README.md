@@ -1,4 +1,4 @@
-# Poster Presebted at EGU 2026
+# Poster Presented at EGU 2026
 
 Contribution from 4th May, 2026 in the Session "Clouds and Aerosols Remote Sensing" with abstract submitted at:
 
